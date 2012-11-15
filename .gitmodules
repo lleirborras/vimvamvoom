@@ -54,10 +54,6 @@
   path = bundle/snipmate
   url = https://github.com/msanders/snipmate.vim
   ignore=dirty
-[submodule "bundle/command-t"]
-  path = bundle/command-t
-  url = git://git.wincent.com/command-t.git
-  ignore=dirty
 [submodule "snippets"]
   path = snippets
   url = https://github.com/scrooloose/snipmate-snippets.git
